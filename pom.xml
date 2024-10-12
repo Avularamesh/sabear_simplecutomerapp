@@ -20,11 +20,11 @@
     <distributionManagement>
         <snapshotRepository>
             <id>nexus-snapshots</id>
-            <url>http://18.144.161.205:8081/repository/SimpleCustomerApp</url> <!-- Nexus snapshot repository URL -->
+            <url>http://54.67.88.17:8081/repository/SimpleCustomerApp</url> <!-- Nexus snapshot repository URL -->
         </snapshotRepository>
         <repository>
             <id>nexus-releases</id>
-            <url>http://18.144.161.205:8081/repository/SimpleCustomerApp</url> <!-- Nexus release repository URL -->
+            <url>http://54.67.88.17:8081/repository/SimpleCustomerApp</url> <!-- Nexus release repository URL -->
         </repository>
     </distributionManagement>
 
